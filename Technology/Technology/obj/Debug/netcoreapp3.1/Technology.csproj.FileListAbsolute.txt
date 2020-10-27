@@ -1,0 +1,13 @@
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.exe
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.deps.json
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.runtimeconfig.json
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.runtimeconfig.dev.json
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.dll
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.pdb
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.csprojAssemblyReference.cache
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.AssemblyInfoInputs.cache
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.AssemblyInfo.cs
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.csproj.CoreCompileInputs.cache
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.dll
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.pdb
+D:\Users\jamielihyahoo\development\LaunchCode\Technology\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.genruntimeconfig.cache
